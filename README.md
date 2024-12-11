@@ -37,5 +37,9 @@ Once the container starts successfully, Apache Solr can be accessed in a web bro
 **http://localhost:8983**
 This will open the Solr Admin interface, where you can manage cores, query data, and configure Solr settings.
 
+# VIDEO
 
+
+
+https://github.com/user-attachments/assets/75187152-17cd-413b-b2c2-80fca105261f
 
